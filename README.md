@@ -1,16 +1,23 @@
-# mind_fuel_application
+# MindFuel
 
-A new Flutter project.
+MindFuel is an educational app built with Flutter and Dart that helps students learn and practice calculus through interactive lessons and practice problems.
 
-## Getting Started
+## Features
+- Calculus lessons covering fundamental concepts
+- Interactive practice questions
+- Multiple difficulty levels
+- User interface built with Flutter
 
-This project is a starting point for a Flutter application.
+## Technologies
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## My Role
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I served as Lead Programmer on a four-person development team and took primary responsibility for the application's functionality and implementation.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Alongside development, I helped my teammates learn Flutter and Dart by selecting relevant learning resources, explaining code implementations, and providing technical guidance throughout the project.
+
+## Project Background
+
+MindFuel was a student programming project that provided hands-on experience in application development, debugging, and team collaboration.
